@@ -13,3 +13,5 @@ HOOKURL = 'https://bots.realraum.at/realhook/'
 
 requests.post(HOOKURL, data = 'hello world', headers={'content-type': 'text/plain;'})
 ```
+
+At realraum we use(d) this to notify our irc-channel about zeromq events, [see demo code](https://gist.github.com/stefan2904/dba60622d5e9dbb06c70).
