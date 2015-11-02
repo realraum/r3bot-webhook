@@ -4,7 +4,7 @@ This plugin (*Realhook*) provides your Limnoria bot with a simple webhook, which
 
 ### Warning
 
-**Keep in mind:** The hook does not implement any form of authentication. The hook is exposed to anyone who has access to the server via http. thus allowing them to use it!
+**Keep in mind:** The hook does not implement any form of authentication. The hook is exposed to anyone who has access to the server via http, thus allowing them to use it!
 
 ### Demo
 
